@@ -12,7 +12,7 @@ Welcome to my **Advent of Code 2024** solutions repository!
 | Day     | Part 1 | Part 2 |
 |---------|--------|--------|
 | Day 1 - Historian Hysteria  | ✅      |  ✅      |
-| Day 2   | ✅      | ✅       |
+| Day 2 - Red-Nosed Reports  | ✅      | ✅       |
 | Day 3   | 🕒      | 🕒      |
 | ...     | ...    | ...    |
 
